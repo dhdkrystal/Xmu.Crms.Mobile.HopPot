@@ -1,0 +1,8 @@
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.deps.json
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.runtimeconfig.json
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.runtimeconfig.dev.json
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.dll
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.csprojResolveAssemblyReference.cache
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.csproj.CoreCompileInputs.cache
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.AssemblyInfoInputs.cache
+C:\Users\dhd\OneDrive - stu.xmu.edu.cn\Visual Studio Workspace\Xmu.Crms.HotPot\Xmu.Crms.Mobile.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Mobile.HotPot.AssemblyInfo.cs
